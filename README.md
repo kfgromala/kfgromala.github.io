@@ -6,4 +6,5 @@ Jakiś tekst w akapicie Jakiś tekst w akapicie Jakiś tekst w akapicie Jakiś t
 
 ### Tytuł 3
 Jakiś tekst w akapicie Jakiś tekst w akapicie Jakiś tekst w akapicie Jakiś tekst w akapicie Jakiś tekst w akapicie i jakiś randomowy wzór:
-$$ y = ax+b \tag{1.00}$$
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
