@@ -6,4 +6,4 @@ Jakiś tekst w akapicie Jakiś tekst w akapicie Jakiś tekst w akapicie Jakiś t
 
 ### Tytuł 3
 Jakiś tekst w akapicie Jakiś tekst w akapicie Jakiś tekst w akapicie Jakiś tekst w akapicie Jakiś tekst w akapicie i jakiś randomowy wzór:
-$$ y = ax+b $$
+$$ y = ax+b \tag{1.00}$$
