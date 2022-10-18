@@ -13,3 +13,11 @@ h4 { margin-top: 1.5px; margin-bottom: 1.5px; padding: 0px;}
 
 body {padding: 10px; width: 75%; margin: 0 auto; }
 
+kod {
+    white-space: pre;
+    margin: 0 auto;
+    padding: 15px;
+    font-family: Consolas;
+    background: LightGrey;
+    border: 1px solid black;
+}
