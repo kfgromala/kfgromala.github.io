@@ -1,3 +1,7 @@
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+
 # kfgromala.github.io
 Notatki do projektu stronu... proszę patrzeć tu: https://kfgromala.github.io/ 
 
