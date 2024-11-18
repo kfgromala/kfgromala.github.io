@@ -2,3 +2,6 @@
 Notatki do projektu stronu... proszę patrzeć tu: https://kfgromala.github.io/ 
 
 $$ y =  \int (at + b) $$
+
+This sentence uses $\` and \`$ delimiters to show math inline:  $`\sqrt{3x-1}+(1+x)^2`$
+
